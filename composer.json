@@ -1,0 +1,32 @@
+{
+    "name": "gearmagicru/gm-fe-site",
+    "description": "Module \"Web Site\"",
+    "keywords": [
+        "gm",
+        "gearmagic",
+        "site",
+        "module",
+        "web"
+    ],
+    "homepage": "https://apps.gearmagic.ru/component/gm-fe-site",
+    "type": "component",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anton Tivonenko",
+            "email": "anton.tivonenko@gmail.com",
+            "homepage": "https://gearmagic.ru"
+        }
+    ],
+    "require": {
+        "gearmagicru/gm-composer-plugin": "*"
+    },
+    "extra": {
+        "gm": {
+            "id": "gm.fe.site",
+            "vendor": "gm"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
