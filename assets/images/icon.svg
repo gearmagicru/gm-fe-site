@@ -1,0 +1,9 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+  <g id="icon">
+    <circle cx="16" cy="16" r="14" fill="none" stroke="#797979" stroke-width="2" stroke-miterlimit="10"/>
+    <line x1="2.8" y1="12" x2="29.2" y2="12" fill="none" stroke="#797979" stroke-width="2" stroke-miterlimit="10"/>
+    <line x1="2.9" y1="20" x2="29.2" y2="20" fill="none" stroke="#797979" stroke-width="2" stroke-miterlimit="10"/>
+    <path d="M14,2c-4,6,-4,22,0,27.9" fill="none" stroke="#797979" stroke-width="2" stroke-miterlimit="10"/>
+    <path d="M18.1,2c3.868,5.802,3.866,22.198,0,27.9" fill="none" stroke="#797979" stroke-width="2" stroke-miterlimit="10"/>
+  </g>
+</svg>
