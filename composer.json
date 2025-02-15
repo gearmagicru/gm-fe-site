@@ -1,13 +1,7 @@
 {
     "name": "gearmagicru/gm-fe-site",
     "description": "Module \"Web Site\"",
-    "keywords": [
-        "gm",
-        "gearmagic",
-        "site",
-        "module",
-        "web"
-    ],
+    "keywords": ["gearmagic", "gm-panel", "gm-component", "gm-module", "module", "web"],
     "homepage": "https://apps.gearmagic.ru/component/gm-fe-site",
     "type": "component",
     "license": "MIT",
